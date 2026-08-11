@@ -1,0 +1,17 @@
+export const colors = {
+  background: "#1B2A6B",
+  backgroundLight: "#2E4AA8",
+  pathLine: "#FFE486",
+  areaOpen: ["#FF9A3D", "#FF6B6B"],
+  areaComplete: ["#3DDC84", "#1FAF6B"],
+  areaLocked: ["#5B6588", "#3D4568"],
+  cardBg: "#FFFFFF",
+  textDark: "#2B2140",
+  textLight: "#FFFFFF",
+  textMuted: "#8A90B3",
+  star: "#FFD23D",
+  lock: "#C9CEE8",
+  rarityUmum: "#9AA3C7",
+  rarityLangka: "#4D9DE0",
+  rarityEpik: "#C77DFF",
+} as const;
